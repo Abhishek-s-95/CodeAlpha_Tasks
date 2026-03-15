@@ -17,7 +17,9 @@ Organization: CodeAlpha
 Role: Cybersecurity Intern
 Domain: Cybersecurity
 
-📂 Internship Tasks
+####📂 Internship Tasks
+
+
 1️⃣ Secure Coding Review
 
 Analyzed application source code for potential security vulnerabilities.
@@ -46,7 +48,7 @@ Used security tools to analyze system vulnerabilities.
 
 Performed security assessments and analysis.
 
-🛠️ Tools & Technologies
+#####🛠️ Tools & Technologies
 
 Python
 
@@ -56,7 +58,7 @@ Networking Tools
 
 Cybersecurity Analysis Techniques
 
-🎯 Key Learning Outcomes
+######🎯 Key Learning Outcomes
 
 Understanding of secure coding practices
 
