@@ -43,19 +43,14 @@ Performed security assessments and analysis.
 ##### 🛠️ Tools & Technologies
 
 Python
-
 Wireshark
-
 Networking Tools
-
 Cybersecurity Analysis Techniques
+
 
 ###### 🎯 Key Learning Outcomes
 
 Understanding of secure coding practices
-
 Hands-on experience in network traffic analysis
-
 Knowledge of cybersecurity tools and vulnerability detection
-
 Exposure to real-world cybersecurity challenges
