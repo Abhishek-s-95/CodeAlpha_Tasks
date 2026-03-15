@@ -11,44 +11,36 @@ This repository contains the projects and tasks completed during my Cybersecurit
 
 The goal of this internship was to gain practical knowledge of cybersecurity concepts and apply them in real-world scenarios.
 
-### 🏢 Organization
+###  🏢 Organization
 
 Organization: CodeAlpha
 Role: Cybersecurity Intern
 Domain: Cybersecurity
 
-####📂 Internship Tasks
+#### 📂 Internship Tasks
 
 
 1️⃣ Secure Coding Review
 
 Analyzed application source code for potential security vulnerabilities.
-
 Identified common issues such as:
-
 Input validation problems
-
 Authentication weaknesses
-
 Improper error handling
-
 Provided recommendations for secure coding practices.
 
 2️⃣ Network Traffic Capture and Analysis
-
 Captured network packets and analyzed traffic patterns.
-
 Identified suspicious network activities.
-
 Learned packet inspection and network monitoring techniques.
 
+
 3️⃣ Cybersecurity Tools Implementation
-
 Used security tools to analyze system vulnerabilities.
-
 Performed security assessments and analysis.
 
-#####🛠️ Tools & Technologies
+
+##### 🛠️ Tools & Technologies
 
 Python
 
@@ -58,7 +50,7 @@ Networking Tools
 
 Cybersecurity Analysis Techniques
 
-######🎯 Key Learning Outcomes
+###### 🎯 Key Learning Outcomes
 
 Understanding of secure coding practices
 
