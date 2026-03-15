@@ -13,9 +13,11 @@ The goal of this internship was to gain practical knowledge of cybersecurity con
 
 ###  🏢 Organization
 
-Organization: CodeAlpha
-Role: Cybersecurity Intern
-Domain: Cybersecurity
+Organization: CodeAlpha.
+
+Role: Cybersecurity Intern.
+
+Domain: Cybersecurity.
 
 #### 📂 Internship Tasks
 
@@ -42,15 +44,15 @@ Performed security assessments and analysis.
 
 ##### 🛠️ Tools & Technologies
 
-Python
-Wireshark
-Networking Tools
-Cybersecurity Analysis Techniques
+Python,
+Wireshark,
+Networking Tools,
+Cybersecurity Analysis Techniques.
 
 
 ###### 🎯 Key Learning Outcomes
 
-Understanding of secure coding practices
-Hands-on experience in network traffic analysis
-Knowledge of cybersecurity tools and vulnerability detection
-Exposure to real-world cybersecurity challenges
+Understanding of secure coding practices,
+Hands-on experience in network traffic analysis,
+Knowledge of cybersecurity tools and vulnerability detection,
+Exposure to real-world cybersecurity challenges.
