@@ -32,12 +32,14 @@ Improper error handling
 Provided recommendations for secure coding practices.
 
 2️⃣ Network Traffic Capture and Analysis
+
 Captured network packets and analyzed traffic patterns.
 Identified suspicious network activities.
 Learned packet inspection and network monitoring techniques.
 
 
 3️⃣ Cybersecurity Tools Implementation
+
 Used security tools to analyze system vulnerabilities.
 Performed security assessments and analysis.
 
